@@ -1,0 +1,15 @@
+== README
+
+Rails教程第一课.
+
+大家可以clone下来之后,
+
+$ bundle install
+$ bundle exec rails server
+
+就可以访问了!
+
+显示的是最简单的情况:
+
+1. 输入 /books/list
+2. 就可以显示对应的页面了.
