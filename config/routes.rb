@@ -8,7 +8,7 @@ Rails.application.routes.draw do
 
   resources :interfaces do
     collection do
-      get :call_socket
+      post :call_socket
     end
   end
 end
